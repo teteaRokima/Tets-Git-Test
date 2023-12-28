@@ -1,0 +1,7 @@
+This is a text file to check the commitment of git
+
+
+Adding a new line on this file
+
+
+
